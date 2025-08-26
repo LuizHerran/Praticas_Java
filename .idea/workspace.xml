@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="aaaaaaaaaah">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/Aula_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/Aula_2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Autor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/streenmatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/streenmatch/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="31pcmpQrCiPwFAysUtjdWQ5W8BL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/praticas_gerais/Java",
+    "settings.editor.selected.configurable": "settings.sync",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="" />
+      <created>1756224615777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756224615777</updated>
+      <workItem from="1756224617271" duration="299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaaaaaaaaah" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaaaaaaaaah" />
+  </component>
+</project>

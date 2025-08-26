@@ -7,7 +7,7 @@ public class Saldo_e_Tranferencia {
         int opc = 0;
         int esc = 0;
         String saida;
-        Double saldo = 5000.00;
+        Double saldo = 3000.00;
 
         System.out.printf("Digite seu nome: ");
         String nome = sc.nextLine();

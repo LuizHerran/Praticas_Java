@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="aaaaaaaaaah">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/misc.xml" afterDir="false" />
@@ -18,8 +16,6 @@
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Livro.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/.idea/misc.xml" beforeDir="false" />
@@ -30,8 +26,9 @@
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Autor.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Livro.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Aulas_UCB/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/streenmatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/streenmatch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +55,16 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/praticas_gerais/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.sync",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -82,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756224615777</updated>
-      <workItem from="1756224617271" duration="299000" />
+      <workItem from="1756224617271" duration="681000" />
     </task>
     <servers />
   </component>

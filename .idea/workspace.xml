@@ -6,20 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="aaaaaaaaaah">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Autor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Autor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_22-08/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/Simulacao_de_tranferecia_bancaria.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Simulacao_de_tranferecia_bancaria/Simulacao_de_tranferecia_bancaria.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streenmatch/streenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/streenmatch/streenmatch.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testes/testes.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +133,7 @@
       <updated>1756224615777</updated>
       <workItem from="1756224617271" duration="2400000" />
       <workItem from="1756227577851" duration="1882000" />
-      <workItem from="1756239264300" duration="337000" />
+      <workItem from="1756239264300" duration="1280000" />
     </task>
     <servers />
   </component>

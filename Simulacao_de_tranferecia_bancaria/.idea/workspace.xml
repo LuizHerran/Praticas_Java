@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bf8fa94-7ff7-4102-bba8-f91728e251e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../streenmatch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Saldo_e_Tranferencia.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/Programa2.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/Programa3.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/dados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/output/Programa2.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/output/Programa3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/output/dados.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/output/programa1.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../c/programa1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aulas_UCB/Aulas_UCB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../streenmatch/streenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../streenmatch/streenmatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../streenmatch.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
     <option name="RESET_MODE" value="KEEP" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -97,6 +91,7 @@
       <workItem from="1755798030789" duration="178000" />
       <workItem from="1756222868580" duration="1000" />
       <workItem from="1756222928126" duration="18000" />
+      <workItem from="1756229478304" duration="57000" />
     </task>
     <servers />
   </component>

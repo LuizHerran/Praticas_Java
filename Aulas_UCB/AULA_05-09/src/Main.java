@@ -5,6 +5,6 @@ public class Main {
         Ebook ebook = new Ebook("Marca");
         Livro livro = new Livro("O pequeno principe", "Historia", 678, 50.39, autor, ebook);
 
-
+        livro.dados_livros();
     }
 }

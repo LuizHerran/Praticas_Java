@@ -1,19 +1,42 @@
+import br.com.alura.streeanmath.calculos.CalculadoraDeTempo;
+import br.com.alura.streeanmath.calculos.FiltroDeRecomendacao;
+import br.com.alura.streeanmath.modelos.Episodio;
+import br.com.alura.streeanmath.modelos.Filme;
+import br.com.alura.streeanmath.modelos.Serie;
+
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
-        meuFilme.nomeFilme = "O poderoso Chefão";
-        meuFilme.Genero = "Ação";
-        meuFilme.AnoDeLancamento = 1990;
-        meuFilme.DuracaoEmMinutos = 120;
-        meuFilme.IncluidoNoPlano = true;
+        meuFilme.setNome("O poderoso Chefão");
+        meuFilme.setGenero("Ação");
+        meuFilme.setAnoDeLancamento(1990);
+        meuFilme.setDuracaoEmMinutos(145);
+        meuFilme.setIncluidoNoPlano(true);
+        meuFilme.avalia(8);
+        meuFilme.avalia(10);
+        meuFilme.avalia(5);
 
-        meuFilme.avalia(8.5);
-        meuFilme.avalia(10);
-        meuFilme.avalia(3.9);
-        meuFilme.avalia(2.1);
-        meuFilme.avalia(9.5);
-        meuFilme.avalia(7);
-        meuFilme.avalia(10);
-        meuFilme.exibeFichaTencica();
+        Serie lost = new Serie();
+        lost.setNome("Lost");
+        lost.setAnoDeLancamento(1990);
+        lost.setIncluidoNoPlano(true);
+        lost.setTemporadas(10);
+        lost.setEpisodiosPorTemporada(10);
+        lost.setMinutosPorEpisodio(45);
+
+        CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
+        calculadora.inclui(meuFilme);
+        calculadora.inclui(lost);
+
+        FiltroDeRecomendacao filtro = new FiltroDeRecomendacao();
+
+        Episodio episodio = new Episodio();
+        episodio.setNome("Episodio");
+        episodio.setNumero(1);
+        episodio.setSerie(lost);
+        episodio.setTotalVisualizacoes(300);
+        filtro.filtra(episodio);
+
+
     }
 }

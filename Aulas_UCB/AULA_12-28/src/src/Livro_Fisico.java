@@ -1,4 +1,15 @@
-package PACKAGE_NAME;
+public class Livro_Fisico extends Livro{
 
-public class Livro_Fisico {
+        double txImpressao = 2.30;
+
+    Livro_Fisico(double valor){
+        this.txImpressao = valor;
+    }
+
+    public void dadosImpressao(){
+
+        System.out.printf("""
+                ||\tTaxa de impressão de R$%.2f
+                """, txImpressao);
+    }
 }

@@ -2,12 +2,11 @@ public class Pessoa {
     private String nome;
     private double peso;
     private double altura;
-    private double imc;
     private boolean praticaEsportes = false;
-    private Atleta atleta;
 
-    public double calculoIMC(boolean praticaEsportes){
-            return this.imc = this.peso/(this.altura*this.altura);
+    public double CalculoIMC(){
+        double IMC = peso/(altura*altura);
+        return IMC;
     }
 
     public String getNome() {
@@ -31,21 +30,7 @@ public class Pessoa {
         this.altura = altura;
     }
 
-    public double getImc() {
-        return imc;
-    }
-    public void setImc(double imc) {
-        this.imc = imc;
-    }
-
-    public Atleta getAtleta() {
-        return atleta;
-    }
-    public void setAtleta(Atleta atleta) {
-        this.atleta = atleta;
-    }
-
-    public boolean getPraticaEsportes() {
+    public boolean isPraticaEsportes() {
         return praticaEsportes;
     }
     public void setPraticaEsportes(boolean praticaEsportes) {

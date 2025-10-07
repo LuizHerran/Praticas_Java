@@ -1,19 +1,18 @@
-public class Main {
-    public static void main(String[] args) {
+void main(){
 
-        Atleta atleta1 = new Atleta();
-        atleta1.setNome("Maria");
-        atleta1.setAltura(1.78);
-        atleta1.setPeso(86.50);
-        Atleta atleta2 = new Atleta();
-        atleta2.setNome("Joao");
-        atleta2.setAltura(1.78);
-        atleta2.setPeso(86.50);
-        atleta2.setPraticaEsportes(true);
-        atleta2.setEsportePraticado("Parkuor");
-        calculoFeito mostrar = new calculoFeito();
+    Pessoa pessoa = new Pessoa();
+    pessoa.setNome("Ana");
+    pessoa.setPeso(86.50);
+    pessoa.setAltura(1.78);
 
-        mostrar.mostrarDados(atleta1);
-        mostrar.mostrarDados(atleta2);
-    }
+    Atleta atleta = new Atleta();
+    atleta.setNome("Paulo");
+    atleta.setPeso(86.50);
+    atleta.setAltura(1.78);
+    atleta.setPraticaEsportes(true);
+
+    calculoFeito calculo = new Calculo();
+    calculo.mostrarDados(pessoa);
+    calculo.mostrarDados(atleta);
+
 }

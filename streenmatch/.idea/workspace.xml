@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a4e3a3b-b809-4b9a-80ee-8d60bf55e590" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/calculos/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/calculos/FiltroDeRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Episodio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/Filme.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/streenmatch/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/Saldo_e_Tranferencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/CalculadoraDeTempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/CalculadoraDeTempo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/Classificavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/Classificavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/FiltroDeRecomendacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/calculos/FiltroDeRecomendacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Episodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Filme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Filme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/streenmatch/br/com/alura/streeanmath/modelos/Titulo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streenmatch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/streenmatch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Saldo_e_Tranferencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/streeanmath/calculos/CalculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/streeanmath/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +39,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LuizHerran"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LuizHerran&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/LuizHerran/Praticas_Java",
-    "accountId": "6884ea44-4850-4597-9123-0ed9489be191"
+    "accountId": "7f6ace48-32f1-4b2a-89e8-52eca67587f1"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="32Kjww0VSAGhJwABXt2Ouxvtytj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -66,6 +73,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/carlos.cavalcante/IdeaProjects/git/Praticas_Java/streenmatch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,8 +87,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
-        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-IU-252.23892.409" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -92,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1757176400304</updated>
       <workItem from="1757176403586" duration="3516000" />
+      <workItem from="1760003825908" duration="7363000" />
     </task>
     <servers />
   </component>

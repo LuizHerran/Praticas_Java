@@ -9,6 +9,15 @@ public class Titulo {
     private int DuracaoEmMinutos;
     private String Genero;
 
+    public Titulo(String nome,  int AnoDeLancamento, boolean IncluidoNoPlano, int DuracaoEmMinutos,
+                  String Genero) {
+        this.nome = nome;
+        this.AnoDeLancamento = AnoDeLancamento;
+        this.IncluidoNoPlano = IncluidoNoPlano;
+        this.DuracaoEmMinutos = DuracaoEmMinutos;
+        this.Genero = Genero;
+    }
+
     public void exibeFichaTencica(){
         System.out.printf("""
                 //========================================\\\\
@@ -32,6 +41,9 @@ public class Titulo {
     public double pegamedia(){
         return somadasavaliacoes / totalDeAvaliacoes;
     }
+
+
+
 
     public String getNome() {
         return nome;

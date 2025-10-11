@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="aaaaaaaaaah">
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/Ciruclo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/FormaGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +36,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/LuizHerran/Praticas_Java&quot;,
-    &quot;accountId&quot;: &quot;7f6ace48-32f1-4b2a-89e8-52eca67587f1&quot;
+    &quot;accountId&quot;: &quot;381f6b93-6820-4d2a-a01b-27d79d2faa59&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -35,6 +46,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="31pcmpQrCiPwFAysUtjdWQ5W8BL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -115,14 +129,6 @@
         <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

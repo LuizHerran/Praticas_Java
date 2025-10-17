@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24b5f6b1-f26b-4506-b8e7-1ae888559a40" name="Changes" comment="aaaaaaaaaah">
-      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/Ciruclo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/FormaGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas_UCB/AULA_10-10/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas_UCB/Aulas_UCB.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +32,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/LuizHerran/Praticas_Java&quot;,
-    &quot;accountId&quot;: &quot;381f6b93-6820-4d2a-a01b-27d79d2faa59&quot;
+    &quot;url&quot;: &quot;https://github.com/LuizHerran/Praticas_Java.git&quot;,
+    &quot;accountId&quot;: &quot;eedb7b31-3391-4535-b633-e68b8b9ebf06&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -71,7 +68,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propCompiler&quot;,
